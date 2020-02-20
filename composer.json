@@ -1,0 +1,10 @@
+{
+    "name": "steffenkong/steffen-composer",
+    "authors": [
+        {
+            "name": "SteffenKong",
+            "email": "3266023724@qq.com"
+        }
+    ],
+    "require": {}
+}
